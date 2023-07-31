@@ -79742,8 +79742,8 @@ $.ak=null
 $.jl=null
 $.pu=null
 $.aoF=1
-$.apX="http://formatos.valladolid.tecnm.mx:8443/bills"
-$.aCM="http://formatos.valladolid.tecnm.mx:8443/users"
+$.apX="https://backend-bills-v7nohlccfa-uc.a.run.app/bills"
+$.aCM="https://backend-bills-v7nohlccfa-uc.a.run.app/users"
 $.ape=null
 $.af1=null})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"aHm","bY",()=>A.aDh(A.a8(A.alx(self.window),"vendor"),B.c.ae7(A.avy(A.alx(self.window)))))
